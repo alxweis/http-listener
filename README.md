@@ -27,7 +27,7 @@ Body: {"test": "data"}
 ## Build
 
 ```bash
-pyinstaller --onefile http_listener.py --name http_listener
+pyinstaller --onefile http_listener.py --name http-listener
 ```
 
 Executable in `dist/`.
