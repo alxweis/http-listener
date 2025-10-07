@@ -8,10 +8,9 @@ Minimal Python script to log incoming HTTP requests.
 - The selected **port must be open and exposed** (e.g., via port forwarding or firewall settings)
 - Ensure no other service is already using the same port
 
-## Compiled Binary
+## Executables (Linux/Windows)
 
-> [!IMPORTANT]
-> See [releases](https://github.com/alxweis/http-listener/releases) for prebuilt executables for Linux and Windows.
+- See [releases](https://github.com/alxweis/http-listener/releases) for prebuilt executables for Linux and Windows.
 
 ## Source
 
