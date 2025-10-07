@@ -1,6 +1,6 @@
 # HTTP Listener
 
-Minimal Python script to log incoming HTTP requests.
+_Simple HTTP listener that prints incoming requests._
 
 ## Requirements
 
