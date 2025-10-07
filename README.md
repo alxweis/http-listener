@@ -28,7 +28,7 @@ pip install -r requirements.txt
 ### Usage
 
 ```bash
-python http_listener.py --port 5555 --endpoint my_endpoint
+python main.py --port 5555 --endpoint my_endpoint
 ```
 
 Example output:
@@ -43,7 +43,7 @@ Body: {"test": "data"}
 ### Build
 
 ```bash
-pyinstaller --onefile http_listener.py --name http-listener
+pyinstaller --onefile main.py --name http-listener
 ```
 
 Executable in `dist/`.
