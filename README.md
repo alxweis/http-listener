@@ -2,6 +2,7 @@
 
 Minimal Python script to log incoming HTTP requests.
 
+> [!NOTE]
 > See [releases](https://github.com/alxweis/http-listener/releases) for prebuilt executables for Linux and Windows.
 
 ## Setup
