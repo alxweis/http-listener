@@ -12,13 +12,13 @@ pip install -r requirements.txt
 ## Usage
 
 ```bash
-python http_listener.py --port 1234 --endpoint my_endpoint
+python http_listener.py --port 5555 --endpoint my_endpoint
 ```
 
 Example output:
 
 ```
-Listening on http://89.0.123.45:1234/my_endpoint
+Listening on http://89.0.123.45:5555/my_endpoint
 [2025-10-07 14:21:33] POST received
 Headers: {...}
 Body: {"test": "data"}
