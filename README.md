@@ -19,15 +19,30 @@ _Simple HTTP listener that prints incoming requests._
 - Python 3.8 or higher
 
 ### Setup
+
+**Linux**
 ```bash
-python -m venv venv
+python3 -m venv venv
 source venv/bin/activate
+pip install -r requirements.txt
+````
+
+**Windows**
+```powershell
+python -m venv venv
+.\venv\Scripts\activate
 pip install -r requirements.txt
 ````
 
 ### Usage
 
+**Linux**
 ```bash
+python3 main.py --port 5555 --endpoint my_endpoint
+```
+
+**Windows**
+```powershell
 python main.py --port 5555 --endpoint my_endpoint
 ```
 
