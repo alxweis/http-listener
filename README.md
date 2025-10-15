@@ -58,7 +58,7 @@ X-Signature: sha256=7d2a1e0f5b49d42a2c0c3a5e29a6b43b8c14d8e37f2a9c8b12f0a3e4f7d1
 }
 Body: {
   "event": "user_registered",
-  "timestamp": "2025-10-15T14:30:00Z",
+  "timestamp": "2025-10-07T14:21:30Z",
   "data": {
     "user_id": 101,
     "email": "user@example.com"
