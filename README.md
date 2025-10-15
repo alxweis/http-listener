@@ -53,8 +53,6 @@ Listening on http://89.0.123.45:5555/home
 [2025-10-07 14:21:33] POST received
 Headers: {
 Content-Type: application/json
-User-Agent: WebhookClient/1.0
-X-Signature: sha256=7d2a1e0f5b49d42a2c0c3a5e29a6b43b8c14d8e37f2a9c8b12f0a3e4f7d1b8c9
 }
 Body: {
   "event": "user_registered",
